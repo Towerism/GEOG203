@@ -24,3 +24,141 @@ GEOG 203-503
 - HECC 203
 - Sunday 7-8pm, Monday 7-8pm, Thursday 8-9pm
 - Email: ~sh37868@tamu.edu~ or ~stephenhiltonsi@gmail.com~
+* Ch1: Essentials of Geography
+** The Science of Goegraphy
+*** Geography - Greek term:
+- geo * "Earth"
+- graphein * "to write"
+*** Geography is a method, not a body of knowledge
+*** Method -> *spatial* analysis
+- e.g. GIS
+- *spatial* characteristics of physical space, its measurement, distribution of
+  things within
+*** Five spatial themes:
+**** #1 Location
+- Absolute and relative location on earth
+- Where? The specific planetary address
+- E.g latitude and longitude
+**** #2 Region
+- Areas having unfiorm characteristics
+- How they form and change
+- Relation to other regions
+- E.g. areas that are favorable to hurricane formation
+**** #3 Movement
+- Communication, movement, circulation, migration, and diffusion across Earth's
+  surface
+- Global interdependence links all regions and places
+- Not necessarily people, but can refer to weather, and natural disaster
+- E.g. the path/trajectory of a hurricane, or the rotation
+**** #4 Place
+- Tangible and intangible living and nonliving characteristics that make each
+  place unique
+- No two places on earth are exactly alike
+- E.g. memories of previous hurricanes, emotions and trauma
+**** #5 Human-Earth Relationships
+- Human-environment connections inlucde
+  - Resource exploitation
+  - Hazard perception
+  - Environmental pollution and modification
+- E.g. aftermath of a hurricane, or human actions that influence hurricane
+  formation
+*** Geographic Continuum
+**** Geography is "eclectic"
+Any subject can be examined geographically
+**** Continuum
+- Physical and life sciences on end
+  - E.g. biogeography, climatology, zoogeography, etc.
+- Human and cultural sciences at the other
+  - E.g. behavioral geography, economic geography, political geography, etc.
+** Earth Systems Concepts
+*** Systems theory
+- System any ordered set of interrelated components and their attributions
+- Can be made up of sub-systems
+**** Open systems
+- Not self-contained; inputs/outputs of energy matter
+- Most systems are open
+- E.g. process of photosynthesis
+**** Closed systems
+- No external influences; shut off from surroundings
+- E.g. the earth is closed in terms of matter
+  - The earth is NOT a closed system in terms of energy
+- Otherwise it is very difficult to think of any kind of closed system
+**** System feedbacks
+- Outputs that influence the system to discourage or encourage further outputs
+***** Negative feedbacks
+- E.g pushing a boulder up a steep hill
+- E.g. Global warming
+  - Initial warming could make the world a bit colder
+***** Positive feedbacks
+- E.g. pushing a boulder down a steep hill
+- E.g. initial temperature increase in snow
+  - warmer snow has lower albedo and absorbs more sunlight, becoming even warmer
+  - warmer snow in turn warms surrounding snow
+- "Domino effect"
+  - Initial input causes a "snowball" effect
+**** System equilibrium
+***** *Steady state equilibrium*
+Most systems are in *equilibrium* their conditions fluctuate around average conditions
+E.g. water vapor in the atmosphere
+***** *dynamic equilibrium*
+If there is a trend over time
+E.g. CO2 in the atmosphere
+***** *Meta-stable equilibrium*
+Abrupt change or tipping point
+**** What are Earth's Systems?
+***** Four Spheres interact across *500 million km^2*
+- Abiotic (non-living)
+  - Atmosphere
+  - Hydrosphere
+  - Lithosphere
+- Bitotic (living): all three abiotic spheres intersect
+  - Biosphere
+** Location and Time on Earch
+*** Dimensions
+**** Spherical Planet: Earth's Dimensions
+- Due to its rotation
+  - Earth is not perfectly round (thicker along the equator)
+  - Diameter
+    - Equatorial is larger than the north-south diameter (by about 26 mi)
+**** Geographic Grid
+***** Latiude and Longitude
+- Degrees, minutes, seconds, direction
+- 0 to 180 longitude
+- or 0 to 90 latitude
+- 00' to 59' minutes
+- 00" to 59" seconds
+- N, S, E, W for direction
+*** Latitude
+- "Angular distance north or sourth of the equator," measured from the center of Earth
+- 1 degree is *always ~69 mi*
+**** Runs =east to west= on maps/globes
+- Parallel to the equator (0 deg)
+- Increase northward and southward
+  - North Pole = 90 deg N
+  - South Pole = 90 deg S
+- Lines of latitude are called "parallels"
+**** Latidunical Geographic Zones
+- Climate latitudes
+- E.g. Arctic circle: 66.5 deg N to North pole
+- E.g. Antarctic circle: 66.5 deg S to South pole
+- E.g. Tropic of Cancer and Capricorn: 23.5 deg N and S respectively
+*** Longitude
+- "Angular distance east or west of a point on the Earth's surface," measured
+  from the center of Earth
+- 1 degree *varies, 0-69 mi* (0 at the north pole, 69 at the equator)
+**** Measured relative to prime meridian (0 deg)
+- Arbitrarily designated to be Greenwich, England
+**** Run =north to south= on maps/globes
+- Lines of longitude are called meridians
+- They are *not* parallel to each other
+- Meridians make right angles with the parallels (latitudes)
+*** Prime Meridian and Standard Time
+**** Prime merdian, also the standard for time
+- Greenwich Mean Time (GMT) = Universal Time
+**** Time Zones
+- Earth rotates 360 deg in 24 hours
+  - *1 hour* = 1 time zone -> 360 deg / 24 hours = *15 deg wide*
+  - Time zone extends 7.5 deg (15 / 2) on either side of a centra meridian
+**** National/political boundaries distort the time zones
+** Maps, Scales, and Projections
+** Remote Sensing and GPS
