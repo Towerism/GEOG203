@@ -158,7 +158,7 @@ Abrupt change or tipping point
 **** Time Zones
 - Earth rotates 360 deg in 24 hours
   - *1 hour* = 1 time zone -> 360 deg / 24 hours = *15 deg wide*
-  - Time zone extends 7.5 deg (15 / 2) on either side of a centra meridian
+  - Time zone extends 7.5 deg (15 / 2) on either side of a central meridian
 **** National/political boundaries distort the time zones
 ** Maps, Scales, and Projections
 ** Remote Sensing and GPS
