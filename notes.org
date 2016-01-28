@@ -27,8 +27,8 @@ GEOG 203-503
 * Ch1: Essentials of Geography
 ** The Science of Goegraphy
 *** Geography - Greek term:
-- geo * "Earth"
-- graphein * "to write"
+- *geo* "Earth"
+- *graphein* "to write"
 *** Geography is a method, not a body of knowledge
 *** Method -> *spatial* analysis
 - e.g. GIS
@@ -51,7 +51,7 @@ GEOG 203-503
 - Not necessarily people, but can refer to weather, and natural disaster
 - E.g. the path/trajectory of a hurricane, or the rotation
 **** #4 Place
-- Tangible and intangible living and nonliving characteristics that make each
+- Tangible, intangible living and nonliving characteristics that make each
   place unique
 - No two places on earth are exactly alike
 - E.g. memories of previous hurricanes, emotions and trauma
@@ -64,7 +64,7 @@ GEOG 203-503
   formation
 *** Geographic Continuum
 **** Geography is "eclectic"
-Any subject can be examined geographically
+- Any subject can be examined geographically
 **** Continuum
 - Physical and life sciences on end
   - E.g. biogeography, climatology, zoogeography, etc.
@@ -72,10 +72,10 @@ Any subject can be examined geographically
   - E.g. behavioral geography, economic geography, political geography, etc.
 ** Earth Systems Concepts
 *** Systems theory
-- System any ordered set of interrelated components and their attributions
+- *System* any ordered set of interrelated components and their attributions
 - Can be made up of sub-systems
 **** Open systems
-- Not self-contained; inputs/outputs of energy matter
+- Not self-contained; inputs/outputs of energy / matter
 - Most systems are open
 - E.g. process of photosynthesis
 **** Closed systems
@@ -100,7 +100,7 @@ Any subject can be examined geographically
 ***** *Steady state equilibrium*
 Most systems are in *equilibrium* their conditions fluctuate around average conditions
 E.g. water vapor in the atmosphere
-***** *dynamic equilibrium*
+***** *Dynamic equilibrium*
 If there is a trend over time
 E.g. CO2 in the atmosphere
 ***** *Meta-stable equilibrium*
@@ -113,7 +113,7 @@ Abrupt change or tipping point
   - Lithosphere
 - Bitotic (living): all three abiotic spheres intersect
   - Biosphere
-** Location and Time on Earch
+** Location and Time on Earth
 *** Dimensions
 **** Spherical Planet: Earth's Dimensions
 - Due to its rotation
