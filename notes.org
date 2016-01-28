@@ -157,8 +157,150 @@ Abrupt change or tipping point
 - Greenwich Mean Time (GMT) = Universal Time
 **** Time Zones
 - Earth rotates 360 deg in 24 hours
-  - *1 hour* = 1 time zone -> 360 deg / 24 hours = *15 deg wide*
+  - *1 hour* = *1 time zone* -> 360 deg / 24 hours = *15 deg wide*
   - Time zone extends 7.5 deg (15 / 2) on either side of a central meridian
+- From west to east, it gets later
 **** National/political boundaries distort the time zones
+- Various economic and political reasons
+- Some countries don't dollow the rules
+  - China spans 3-4 time zones
+  - Some countries observe non-standard time such as India and parts of Australia
+**** International Date Line
+- Where each day officially begins and sweeps westward
+- Opposite the prime meridian
+- West side is always one day ahead/later
+- No matter what time of day you cross it, the date changes
+- Remember it is a longitude line, which is inside a time zone (15 deg wide)
 ** Maps, Scales, and Projections
+*** Map
+- *Def* Generalized view of an area seen from above and reduced in size
+*** Scale
+- *Def* Ratio of map unites to ground units
+- Representative fraction (1:250,000)
+- or Graphic Scale
+*** Projection
+- *Def* process of transforming spherical Earth to flat map
+- Often introduces distortion
+**** Example
+***** Mercator
+- Areas are more distorted the farther they are from the equator
+- Exercise: [[http://thetruesize.com]]
+**** Equal area... or true shape?
+- Can't have both on the same map
+- Trade off between correct area and correct shape
+***** Equal area
+- Have to stretch and shear -> parallels and meridians are no longer and right angles
+***** True shape
+- Scale varies from region to region across the map
+**** Correct projection depends on intended use
+**** Types examples
+***** Cylindrical
+- True shape
+- Right angles
+- Midlatitudes and polar areas are vastly exaggerated in size -> not equal aread
+- Standard line (equator on Mercator line), minimized distortion
+***** Planar
+- Equal area
+- Standard line (point) at north pole
+***** Conic
+- Equal area
+- Two standard parallels
 ** Remote Sensing and GPS
+*** Remote Sensing (RS)
+**** Gathering of info about objects/surfaces that are not in direct pyhsical contact
+- Aircraft, spacecraft, satellites, ships, etc.
+**** RS instruments are differnet portions of the electromagnetic spectrum
+- Humans can only see visible spectrum
+- RS can also "see" wavelengths in the ultraviolet, infrared, and/or microwave
+  range
+**** Satellites
+***** Three types of orbits
+- *Geostationary*, or geosynchronous
+  - Pace the earth's rotation speed and remain "parked" over the same location
+    (usually the equator)
+  - Highest altitude (polar and sun-synchronous are much lower)
+- *Polar*
+  - Rotate north-south around earth, as earth spins under it
+  - Orbit once every 90 minutes
+- *Sun-synchronous*
+  - Like polar-orbiters, but they shift their track slightly (1 deg) every day,
+    so that they're always in daylight
+***** Two types of remote sensing
+- *Active* remote sensing
+  - Provide their own engergy to "actively" send out a beam of enerygy, and then
+    read or analyze what is sent back
+  - E.g. radar
+  - Can see the surface through clouds and debris, unlike passive RS
+- *Passive* remote sensing
+  - Record the natural radiation emitted or reflected from a surface ->
+    "passively wait for surface to emit its energy
+  - Primarily visible and infrared light
+  - E.g. areal photographs (non-flash)
+  - Can give you the visual representation, unlike active RS
+*** Geographic Information Systems (GIS)
+**** Remote sensing produces vast quantities of spatial data...
+**** GIS combines spatial and attribute data
+**** Maps can contain multiple data layers
+- Physical features
+- Cultural features
+**** Layers are added to create composite overlay
+- Combining maps to aggregate all the relevant data
+* Ch2: Solar Energy to Earth and the Seasons
+** The Solar System, Sun, and Earth
+*** Speed of light
+- Travels at 300,000 km/s = 9.5 trillion km/year -> *Light year*
+**** Moon is 384,400 km (238,866 mi) away
+  - 1.28 light seconds away
+**** Solar system
+  - 11 light hours in diameter
+**** Milky way galaxy
+  - 100,000 light years across
+**** Universe
+  - 12 billion light years across
+*** Dimensions and distances
+**** Earth's orbit
+- Plane of Earth's orbit = *Plane of the ecliptic*
+- Average distance from Earth to Sun: 150,000,000 km
+  - About 8:20 minutes from the Sun
+  - Closest in January (Perihelion)
+  - Farthest on July 4 (Aphelion)
+  - *Distance from Earth to Sun does not have a strong effect on seasonality*
+** Solar Energy: From Sun to Earth
+*** Solar activity and solar wind
+**** Energy/radiation coming from sun is key to life
+**** Sun 'produces'
+- *Sunspots* caused by magnetic storms (huge, often bigger than size of earth)
+  - activity cycle of ~11 years (maximum and minimum of radiation)
+- *Solar wind* streams of electrically charged particles
+  - Earth's magnetosphere deflects it toward poles
+  - Neutralized in the atmosphere, doesn't reach the surface
+  - Responsible for the Aurora Borealis (which is why it's only seen in the
+    higher latitudes)
+- *Radiation* energy in the form of *electromagnetic waves*
+  - Made up of different wavelengths (short and long waves refer to wavelength)
+    - *wavelength* distance over which a wave's shape repeats
+    - *frequency* number of waves per unit time
+  - All objects radiate energy in wavelengths related to their _temperature_
+*** Electromagnetic spectrum
+- Wavelengths shorter than visible light spectrum are very harmful to humans
+  (ultra-violet and shorter)
+- Visible light (0.4 micrometers to 0.7 micrometers)
+- Wavelengths longer than visible spectrum (infrared and longer)
+**** All objects with a *temperature greater than absolute zero* radiate energy
+- Absolute zero = *0 Kelven (0K)* = *-273 deg C* = *-460 deg F*
+**** Sun = temperature of 6000K -> emits a lot of radiation
+- Hot enough to give off shortwave radiation, aka *solar radiation*
+- Nothing else in the solar system is hot enough to do this
+- 8% ultraviolet, 47% visible, 45% infrared (all shortwave)
+**** Earth = temperature of 288K -> emits a lot less
+- Longwave radiation, aka *terrestrial radiation*
+- All infrared (all shortwave)
+**** Earth's Energy Budget
+- *Solar constant* 1372 W/m^2
+- Earth absorbs shortwave from the sun
+- Earth then converts the energy to longwave energy and emits that
+*** Insolation
+** The Seasons
+*** Seasonality
+*** Reasons for seasons
+*** Annual march of the seasons
