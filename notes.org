@@ -296,11 +296,75 @@ Abrupt change or tipping point
 - Longwave radiation, aka *terrestrial radiation*
 - All infrared (all shortwave)
 **** Earth's Energy Budget
-- *Solar constant* 1372 W/m^2
+- *Solar constant* = *1372 W/m^2*
 - Earth absorbs shortwave from the sun
 - Earth then converts the energy to longwave energy and emits that
 *** Insolation
+**** Incoming Energy
+***** Only *one two-billionth* of sun's energy is intercepted by Earth
+- INcoming SOLar radiATION = *in sol ation*
+- Not to be confused with inSULation
+***** Earth's *curvature* results in *uneven insolation*
+- Places where the sun's rays are *perpendicuar* receive *more intense insolation*
+- *Tropics* receive more concentrated insolation due to Earth's curvature
+  - Approximately 2.5 times more than at poles!
+- Consider a flashlight outputting a concentrated disk when shined straight as
+  opposed to outputting a less concentrated oval when shined at an angle
+  - More intense radiation when the light output is concentrated in a disk
+***** What causes variability in insolation?
+****** Sun's position:
+******* Sun's altitude
+- /angle above horizon/
+- changes in course of day
+- 0 deg at sunrise/sunset, 45 deg if half-way, or 90 deg if directly overhead
+******* Sun's declination
+- /latitude of overhead sun/
+- changes in course of season
+- sun can only every be directly overhead in tropics
+  - 23.5 deg N (Tropic of Cancer) - 23.5 deg S (Tropic Capricorn
+- *affects _intensity_ of insolation*
+****** Day length
+- number of hours of sunshine
+- varies with latitude
+  - no variability at equator
+  - greatest variability at the poles
+- *affects _amount_ of insolation*
+***** What brings about these changes?
+Seasons!
 ** The Seasons
 *** Seasonality
 *** Reasons for seasons
+**** Revolution
+- Refers to the *earth's orbit around the sun*
+- *One revolution takes 365.25 days*
+**** Rotation
+- *spin of Earth on its own axis*
+- rotation = *counterclockwise (eastward)*
+- *causes daily cycle of daylight and darkness*
+  - "circle of illumination"
+- *one rotation per 24 hours*
+**** Tilt of Earth's axis
+- axis is tilted 23.5 deg from plane of ecliptic
+**** Axial parallelism
+- tilt is "fixed" - axis maintains alignment during entire orbit
+- north pole points toward the North Star (Polaris)
+**** Sphericity
+- Remember earth's curvature results in uneven isolation
 *** Annual march of the seasons
+**** Summer solstice - June 21
+- North. Hem. tilted maximally _toward_ the sun
+- Overhead sun at *Tropic of Cancer* (23.5 deg N)
+  - farthest north
+- Longest day and shortest night (in North. Hem.)
+**** Fall equinox - September 22
+- Neither hem. tilted toward/away from the sun
+- Overhead sun at *Equator* (0 deg)
+- 12 hours day/night everywhere
+**** Winter solstice - December 21
+- North. Hem. tilted maximally _away from_ the sun
+- Overhead sun at *Tropic of Capricorn* (23.5 deg S)
+  - farthest south
+- Shortest day and longest night (in North. Hem.)
+**** Spring equinox - March 21
+- See fall equinox
+* Ch3: Earth's Modern Atmosphere
