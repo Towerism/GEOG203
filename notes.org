@@ -30,7 +30,7 @@ GEOG 203-503
 - *geo* "Earth"
 - *graphein* "to write"
 *** Geography is a method, not a body of knowledge
-*** Method -> *spatial* analysis
+*** Method: *spatial* analysis
 - e.g. GIS
 - *spatial* characteristics of physical space, its measurement, distribution of
   things within
@@ -157,7 +157,7 @@ Abrupt change or tipping point
 - Greenwich Mean Time (GMT) = Universal Time
 **** Time Zones
 - Earth rotates 360 deg in 24 hours
-  - *1 hour* = *1 time zone* -> 360 deg / 24 hours = *15 deg wide*
+  - *1 hour* = *1 time zone*: 360 deg / 24 hours = *15 deg wide*
   - Time zone extends 7.5 deg (15 / 2) on either side of a central meridian
 - From west to east, it gets later
 **** National/political boundaries distort the time zones
@@ -189,7 +189,7 @@ Abrupt change or tipping point
 - Can't have both on the same map
 - Trade off between correct area and correct shape
 ***** Equal area
-- Have to stretch and shear -> parallels and meridians are no longer and right angles
+- Have to stretch and shear: parallels and meridians are no longer and right angles
 ***** True shape
 - Scale varies from region to region across the map
 **** Correct projection depends on intended use
@@ -197,7 +197,7 @@ Abrupt change or tipping point
 ***** Cylindrical
 - True shape
 - Right angles
-- Midlatitudes and polar areas are vastly exaggerated in size -> not equal aread
+- Midlatitudes and polar areas are vastly exaggerated in size: not equal aread
 - Standard line (equator on Mercator line), minimized distortion
 ***** Planar
 - Equal area
@@ -232,7 +232,7 @@ Abrupt change or tipping point
   - E.g. radar
   - Can see the surface through clouds and debris, unlike passive RS
 - *Passive* remote sensing
-  - Record the natural radiation emitted or reflected from a surface ->
+  - Record the natural radiation emitted or reflected from a surface:
     "passively wait for surface to emit its energy
   - Primarily visible and infrared light
   - E.g. areal photographs (non-flash)
@@ -248,7 +248,7 @@ Abrupt change or tipping point
 * Ch2: Solar Energy to Earth and the Seasons
 ** The Solar System, Sun, and Earth
 *** Speed of light
-- Travels at 300,000 km/s = 9.5 trillion km/year -> *Light year*
+- Travels at 300,000 km/s = 9.5 trillion km/year: *Light year*
 **** Moon is 384,400 km (238,866 mi) away
   - 1.28 light seconds away
 **** Solar system
@@ -288,11 +288,11 @@ Abrupt change or tipping point
 - Wavelengths longer than visible spectrum (infrared and longer)
 **** All objects with a *temperature greater than absolute zero* radiate energy
 - Absolute zero = *0 Kelven (0K)* = *-273 deg C* = *-460 deg F*
-**** Sun = temperature of 6000K -> emits a lot of radiation
+**** Sun = temperature of 6000K: emits a lot of radiation
 - Hot enough to give off shortwave radiation, aka *solar radiation*
 - Nothing else in the solar system is hot enough to do this
 - 8% ultraviolet, 47% visible, 45% infrared (all shortwave)
-**** Earth = temperature of 288K -> emits a lot less
+**** Earth = temperature of 288K: emits a lot less
 - Longwave radiation, aka *terrestrial radiation*
 - All infrared (all shortwave)
 **** Earth's Energy Budget
@@ -369,10 +369,27 @@ Seasons!
 - See fall equinox
 * Ch3: Earth's Modern Atmosphere
 ** Compounds of the atmosphere
+*** Athmosphere is a very thin layer of gases
+- If earth = size of an apple, atmosphere = thickness of the skin
+*** Without it, no life on earth
+- protective filter
+  - Remember sun emits harmful long wave radiation
+- maintains temperature
 *** Atmospheric pressure
+**** All of the gases are held down by gravity
+- Gravity compresses air (denser near the surface)
+- Air thins rapidly with altitude
+**** 50% of atmospheric mass is in bottom 5.5 km (3.4 mi)
+**** 99.9% is below 50 km (31 mi)
 ** Profile of the atmosphere
 *** Composition
-*** Temperatuer
+**** Inner atmosphere
+- Nitrogen: 78%
+- Oxygen: 21%
+- CO2: 0.039%
+- Argon: 0.9%
+- Trace: 0.06%
+*** Temperature
 *** Function
 ** Variable components
 *** Natural pollution
