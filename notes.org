@@ -35,27 +35,27 @@ GEOG 203-503
 - *spatial* characteristics of physical space, its measurement, distribution of
   things within
 *** Five spatial themes:
-**** #1 Location
-- Absolute and relative location on earth
-- Where? The specific planetary address
-- E.g latitude and longitude
-**** #2 Region
-- Areas having unfiorm characteristics
-- How they form and change
-- Relation to other regions
-- E.g. areas that are favorable to hurricane formation
-**** #3 Movement
-- Communication, movement, circulation, migration, and diffusion across Earth's
-  surface
-- Global interdependence links all regions and places
-- Not necessarily people, but can refer to weather, and natural disaster
-- E.g. the path/trajectory of a hurricane, or the rotation
-**** #4 Place
-- Tangible, intangible living and nonliving characteristics that make each
-  place unique
-- No two places on earth are exactly alike
-- E.g. memories of previous hurricanes, emotions and trauma
-**** #5 Human-Earth Relationships
+**** Location
+- Abste and relative location on earth
+- Whe The specific planetary address
+- E.gtitude and longitude
+**** Region
+- Arehaving unfiorm characteristics
+- Howey form and change
+- Relon to other regions
+- E.greas that are favorable to hurricane formation
+**** Movement
+- Comication, movement, circulation, migration, and diffusion across Earth's
+  sure
+- Glo interdependence links all regions and places
+- Notcessarily people, but can refer to weather, and natural disaster
+- E.ghe path/trajectory of a hurricane, or the rotation
+**** Place
+- Tanle, intangible living and nonliving characteristics that make each
+  plaunique
+- No  places on earth are exactly alike
+- E.gemories of previous hurricanes, emotions and trauma
+**** Human-Earth Relationships
 - Human-environment connections inlucde
   - Resource exploitation
   - Hazard perception
@@ -102,7 +102,7 @@ Most systems are in *equilibrium* their conditions fluctuate around average cond
 E.g. water vapor in the atmosphere
 ***** *Dynamic equilibrium*
 If there is a trend over time
-E.g. CO2 in the atmosphere
+E.g. CO_2 in the atmosphere
 ***** *Meta-stable equilibrium*
 Abrupt change or tipping point
 **** What are Earth's Systems?
@@ -379,18 +379,118 @@ Seasons!
 **** All of the gases are held down by gravity
 - Gravity compresses air (denser near the surface)
 - Air thins rapidly with altitude
+- Pressure *decreases exponentially* with height
+- Pressure is *highest at sea level*
+***** Sea level pressure
+- 1 kg/cm^2
+- 29.92 in. Hg
+- *1013.25 mb* /mean sea-level pressure/
 **** 50% of atmospheric mass is in bottom 5.5 km (3.4 mi)
 **** 99.9% is below 50 km (31 mi)
 ** Profile of the atmosphere
-*** Composition
-**** Inner atmosphere
+- Atmosphere extends to *32,000 km* (20,000 mi) from surface
+  - *Exosphere* extremely few hydrogen and helium atoms are still held by
+    gravity
+  - *Thermosphere* at 480 km (300 mi) is the top of *principal* atmosphere
+*** Ways to categorize atmosphere
+**** Composition
+***** /Heterosphere/ *outer atmosphere*
+- Begins at 80 km (50 mi) and goes up
+- <0.001% of the atmosphere
+- Gases sorted by gravity, "heterogeneous"
+  - stratified by atomic weight
+  - "think oil and water stratified: oil floats on top separated"
+***** /Homosphere/ *inner atmosphere*
+- Gases evenly/well mixed, concentrations are "homogeneous"
+- Extends from surface to 80 km (50 mi)
+****** Homogeneous gases
 - Nitrogen: 78%
 - Oxygen: 21%
-- CO2: 0.039%
+- CO_2: 0.039%
 - Argon: 0.9%
 - Trace: 0.06%
-*** Temperature
-*** Function
+**** Temperature
+***** Thermosphere
+- 80 km outward
+- Coinicides with heterosphere
+- Temperature very high (2200 def F), but very little heat
+***** Mesosphere
+- Temperature decreases, *lowest temperatures* in the atmosphere (-90 deg C =
+  -130 deg F)
+- 50 to 80 km (30 to 50 mi)
+- Top of the mesosphere = *mesopause*
+***** Stratosphere
+- Temperatures increase, from -57 deg C (-70 deg F) at bottom to 0 deg C (32 deg
+  F) at the top, the *stratosphere*
+- 18 to 50 km (11 to 31 mi)
+***** Troposphere
+- Temp dec at rate of 6.4 deg C / km (3.5 deg F / 1000 ft)
+- *Where all weather occurs*
+- Extends from surface to ~18 km (11 mi)
+- Top of troposphere is the *trophosphere*, but *its height varies*
+****** Height
+- Thickness of troposphere *varies by latitude* (equator = 18 km; poles = 8 km)
+  and *by season*
+- Colder regions will have observe a lower troposphere than warmer regions
+  - I.e. *height decreases with temperature*
+**** Function
+- The atmosphere is protective
+  - Various harmful radiation is phased out or partially phased out by the
+    atmosphere as a whole
+    - UV
+    - Gamma Rays
+    - X-Rays
+  - UV index
+    - higher at lower latitudes
+    - on cloudy days, UV index is lower
+***** Ionosphere
+- Spans across meso- and thermosphere
+- Changes incoming particles from atoms to ions (ionization)
+  - where auroras occur
+- Absorbs cosmic rays, gamma rays, X-rays, some UV rays
+***** Ozonosphere
+- Part of the stratosphere
+- What's so important about ozone?? Filters out much of the harmful UV radiation
+****** Ozone
+- Photodissociation: *O_2 + light \rightarrow O + O*
+  - O + O_2 \rightarrow O_3
+- Ozone *absorbs UV* ratiation:
+  - O_3 + UV \rightarrow O_2 + O
+- Endless process that abosorbs most of the harmful UV radiation
+  - Also why temperature in stratosphere increases
+****** Ozone "hole"
+- Not actually a "hole," but a *thinning* of the O3 layer
+- Ozone layer: normally only ~3 mm (0.1 in) thick
+- *Seasonal occurrence*
+- But...synthetic compounds from refrigerants, propellants, and solvents also
+  end up in the stratosphere:
+  - Chlorofluorocarbons (CFCs)
+  - UV radiation strips chlorine off CFCs; chlorine then bonds with oxygen
+    - Cl + O \rightarrow ClO
+    - ClO + O \rightarrow Cl + O_2
+  - Chlorine used and re-used
+    - One Cl atom can destroy as many as 100,000 ozone molecules
+- *Montreal Protocol* (1987) has reduced and phased-out the use of CFCs
+- Ozone hole may be getting smaller...but too soon to say if it's recovering
 ** Variable components
-*** Natural pollution
-*** Anthropogenic pollution
+*** In addition to N_2, O_2, etc., atomosphere also contains
+  - *variable gases* carbon dioxide and monoxide, methane, sulfur
+  - *particles* smoke, ash, dust, pollen, salt
+  - *chemicals* smog
+*** Origin:
+**** Natural pollution
+- *Volcanoes* sulfur oxides, particulates
+- *Forest fires* carbon monoxide and dioxide, nitrogen oxides, particulates
+  - E.g. "slash and burn" agriculture
+- *Plans* hydrocarbons, pollens
+- *Decaying plants* methane, hydrogen sulfides
+- *Soil* dust and viruses
+- *Ocean* salt spray, particulates
+**** Transported
+- Example
+  - Mt. Pinatubo erupted in the philippines
+  - Particles in the stratosphere increased by 2 orders of magnitude along the
+    tropical belt
+  - These particles spread across the globe
+  - Effect: global temperatures dropped
+**** Anthropogenic pollution
