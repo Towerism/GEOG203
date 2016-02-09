@@ -477,7 +477,7 @@ Seasons!
   - *variable gases* carbon dioxide and monoxide, methane, sulfur
   - *particles* smoke, ash, dust, pollen, salt
   - *chemicals* smog
-*** Origin:
+*** Origin
 **** Natural pollution
 - *Volcanoes* sulfur oxides, particulates
 - *Forest fires* carbon monoxide and dioxide, nitrogen oxides, particulates
@@ -487,10 +487,77 @@ Seasons!
 - *Soil* dust and viruses
 - *Ocean* salt spray, particulates
 **** Transported
-- Example
-  - Mt. Pinatubo erupted in the philippines
-  - Particles in the stratosphere increased by 2 orders of magnitude along the
-    tropical belt
-  - These particles spread across the globe
-  - Effect: global temperatures dropped
+***** Examples
+****** Mt. Pinatubo erupted in the Philippines
+- Particles in the stratosphere increased by 2 orders of magnitude along the
+  tropical belt
+- These particles spread across the globe
+- Effect: global temperatures dropped
+****** Saharan dust
+- Turns out to be a good source of nutrients for rain forests across the Atlantic
+****** Arctic Haze
+- Very dry region
+- Pollution never falls out of the air
 **** Anthropogenic pollution
+- *Anthropogenic* human caused
+- *Aerosols* Small particles of dust, soot, and pollution
+  - from urban/industrial pollution, agricultural fires/burning
+- *Photo-chemical smog*
+  - Creates nitric acid, peroxyacetyl nitrates, ozone
+- *Smog and Haze*
+*** Natural factors that affect air pollution
+**** Local and regional
+***** Volcanic landscapes
+- *Vog* Volcanic Smog 
+***** Mountain barriers
+- Inhibits dispersing of pollutants
+***** Valleys
+- Temperature normally decreases throughout troposphere
+- *inversion layer* layer where temperature suddenly increases
+- traps polluted air beneath inversion layer (inversion layer is stable -- think
+  stratosphere)
+* Ch4: Atmosphere and Surface Energy Balances
+** Energy Essentials
+*** Insolation
+- *Sun* provides the solar energy: *heats Earth's surface and atmosphere*
+  - unevenly distributed in time and space
+- *Transmission of energy* all radiation that /passes through/ the atmosphere
+  - both _shortwave_ (in) and _longwave_ (out)
+*** Pathways
+- *Insolation input* all radiation received at Earth's surface
+  - direct and diffuse
+  - Greatest in tropics
+- Not all insolation *directly * reaches the surface
+  - *Scattering*
+    - Change only in _direction_ of light, without altering wavelengths
+    - Results in *diffuse* radiation
+    - 7% of incoming energy is scattered back to space
+    - Blue light is immediately scattered in atmosphere (sky is blue)
+  - *Refraction*
+    - Change in _speed and direction_ of light
+    - When light moves from one medium (outer space) to another (atmosphere)
+  - *Reflection*
+    - bouncing back of energy without being absorbed
+    - deflected away, unchanged, int he direction from which it came
+    - *albedo* Reflective property/brightness of a surface
+      - A percentage of reflected insolation
+      - 0% albedo: no reflection
+      - 100% albedo: all reflected
+  - Everything not reflected is *Absorbed*
+    - assimilation of radiation by an object, and converting shortwave to longwave
+    - 69% of insolation is absorbed
+      - 45% by the _surface_ (land and ocean)
+      - 24% by the _atmosphere_ (gases, dust, clouds, ozone)
+      - converted to *longwave* radiation
+- Either pass through clouds or bounces off,
+  - Clouds keep us cool during the day, and warm at night
+- Or absorbed by ground or bounces off
+- When radiation is re-emitted, it is re-emitted as longwave
+- When source is the sun, the radiation is shortwave
+** Earth-Atmosphere Radiation Balance
+When combining net radiation with respect to albedo, atmosphere, and surface
+respectively, we have a balance between net input and net output
+*** Greenhouse Effect
+** Surface Radiation Balance
+*** Net Radiation
+*** Sensible and Latent Heat
