@@ -600,7 +600,7 @@ Seasons!
 - *Global latent heat* is greatest over the oceans
 - *Global sensible heat* is greatest over the continents
 **** *Radiation budgets*
-- *El Mirage, CA* hot desert (dry) location (35 deg B): /mostly sensible heat/
+- *El Mirage, CA* hot desert (dry) location (35 deg N): /mostly sensible heat/
 - *Pitt Meadows, BC* moderate, moist location (49 deg N): /mostly latent heat/
 **** Net Radiation
 - Earth-atmosphere system as a whole has a net radiation balance
