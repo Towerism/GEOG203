@@ -549,15 +549,61 @@ Seasons!
       - 45% by the _surface_ (land and ocean)
       - 24% by the _atmosphere_ (gases, dust, clouds, ozone)
       - converted to *longwave* radiation
+    - The other 31% is reflected away
 - Either pass through clouds or bounces off,
   - Clouds keep us cool during the day, and warm at night
 - Or absorbed by ground or bounces off
 - When radiation is re-emitted, it is re-emitted as longwave
 - When source is the sun, the radiation is shortwave
 ** Earth-Atmosphere Radiation Balance
-When combining net radiation with respect to albedo, atmosphere, and surface
-respectively, we have a balance between net input and net output
+- When combining net radiation with respect to albedo, atmosphere, and surface
+  respectively, we have a balance between net input and net output
+- *Incoming solar radiation peaks at noon*
+  - Total amount varies with time of year and latitude
+- *Warmest part of the day* around /3pm/
+- *Temperature /lags/ the insolation*
+  - warmest /mid-afternoon/ (3-4pm)
+  - when incoming solar *and* emitted longwave radiation high
+  - coolest right /at sunrise/
+  - when there has been no incoming solar radiation the longest
+- Earth's surface receives (I) shortwave (SW) and longwave (LW) radiation, and
+  loses (O) SW and LW
+- *Net radiation* SW_I - SW_O + LW_I - LW_O
+  - insolation - albedo + infrared - infrared
+*** Mechanisms of Heat Transfer
+- *Conduction* Molecule-to-molecule transfer
+- *Convection/Advection* Energy transferred by movement: /vertically or horizontally/
 *** Greenhouse Effect
+- *Greenhouse gases in the atmosphere absorb longwave radiation*
+  - /Water vapor/ (H_2O_v), /Carbon dioxide/ (CO_2), /Methane/ (CH_4), and others
+- *Delay* energy loss back to outer space
+  - Similar to a greenhouse (glass lets solar radiation in, but traps longwave
+    radiation going out
+- *Clouds and Greenhouse Effect*
+  - Clouds play an important role!
+  - _Amount_ of clouds, and also _type_ and _height_ of clouds
+  - *High* clouds means more trapping means /net warming/
+  - *Low* clouds means more reflections means /net cooling/
 ** Surface Radiation Balance
 *** Net Radiation
+- *At the surface, net radiation is expended via*
+  - *Latent heating (LE)*
+    - latent or "hidden"
+    - Heat transfer from _evaporation_ or _condensation_ of water
+  - *Sensible heating (H)*
+    - Heat you can sense
+    - Transferred through _convection_ and _conduction_
+  - *Ground heating/cooling (G)*
+    - Energy flow in/out of the ground via _conduction_
+    - Balanced on an annual basis
 *** Sensible and Latent Heat
+- *Global latent heat* is greatest over the oceans
+- *Global sensible heat* is greatest over the continents
+**** *Radiation budgets*
+- *El Mirage, CA* hot desert (dry) location (35 deg B): /mostly sensible heat/
+- *Pitt Meadows, BC* moderate, moist location (49 deg N): /mostly latent heat/
+**** Net Radiation
+- Earth-atmosphere system as a whole has a net radiation balance
+  - Surplus in tropics
+  - Deficit in polar regions
+  - Balance at about 36 deg latitude
