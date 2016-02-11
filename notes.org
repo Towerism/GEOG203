@@ -527,7 +527,7 @@ Seasons!
 - *Insolation input* all radiation received at Earth's surface
   - direct and diffuse
   - Greatest in tropics
-- Not all insolation *directly * reaches the surface
+- Not all insolation *directly* reaches the surface
   - *Scattering*
     - Change only in _direction_ of light, without altering wavelengths
     - Results in *diffuse* radiation
@@ -538,7 +538,7 @@ Seasons!
     - When light moves from one medium (outer space) to another (atmosphere)
   - *Reflection*
     - bouncing back of energy without being absorbed
-    - deflected away, unchanged, int he direction from which it came
+    - deflected away, unchanged, in the direction from which it came
     - *albedo* Reflective property/brightness of a surface
       - A percentage of reflected insolation
       - 0% albedo: no reflection
