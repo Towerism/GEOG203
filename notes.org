@@ -578,7 +578,7 @@ Seasons!
   - /Water vapor/ (H_2O_v), /Carbon dioxide/ (CO_2), /Methane/ (CH_4), and others
 - *Delay* energy loss back to outer space
   - Similar to a greenhouse (glass lets solar radiation in, but traps longwave
-    radiation going out
+    radiation going out)
 - *Clouds and Greenhouse Effect*
   - Clouds play an important role!
   - _Amount_ of clouds, and also _type_ and _height_ of clouds
@@ -607,3 +607,89 @@ Seasons!
   - Surplus in tropics
   - Deficit in polar regions
   - Balance at about 36 deg latitude
+* Ch5: Global Temperatures
+** Temperature Concepts and Measurement
+*** Measurement
+- Thermometer and Instrument Shelter
+  - Shielded to prevent solar radiation from interfering with an accurate
+    reading
+**** Temperature variability
+- Water freezes at 0C
+- Water boils at 100C
+- Comfortable 20C
+- Body temp 36.8C
+- Highest temp recorded (death valley) 57C
+- Lowest temp recorded (Antarctica) 89C
+**** Temperature Scales
+- *Fahrenheit (deg F)*
+  - 180 deg F separate melting/freezing and boiling point (32F and 212F)
+- *Celsius (deg C)*
+  - 100 deg C separate melting/freezing and boiling point (0C and 100C)
+- *Kelvin (K)*
+  - Starts at "absolute" zero
+  - 1 deg C = 1K
+  - Celsius + 273 deg
+** Principal Temperature Controls
+*** What information do you need to guess a location's temperature?
+**** Latitude
+- Affects insolation (which is most intense in lower latitudes)
+- Tropics have a relatively small annual temperature range
+- The higher the latitude, the larger the annual temperature range
+**** Altitude
+- Higher altitude:
+  - insolation more intense (less atmosphere above you)
+  - greater daily range
+  - lower annual range and average
+  - greater nighttime cooling
+- Temperature decreases in troposphere at a rate of *6.4 deg C/1000 m*
+- Density of atmosphere decreases implying a lesser ability to absorb and
+  radiate sensible heat
+**** Cloud Cover
+- Moderates temperatures: cooler days, warmer nights
+- High cloud albedo will result in less radiation reaching the surface
+- Acts like a greenhouse gas by delaying loss of longwave radiation on the surface
+- 50% of Earth is covered by clouds at any time
+- Temperature moderation depends on
+  - cloud type
+  - cloud height
+  - cloud amount
+***** In General
+- During _night_: insulate, raise nighttime minimum temperatures (warming effect)
+- During _day_: reflect, lower the daily maximum temperatures (_can_ have
+  cooling effect)
+**** Land-Water Differences
+#+CAPTION: Land vs. Water Heating Differences
+#+TBLNAME: landwaterdiff
+|                        | Continental  | Marine        |
+|------------------------+--------------+---------------|
+| Temperature conditions | More extreme | More moderate |
+| Evaporation            | Less         | More          |
+| Specific heat          | Lower        | Higher        |
+| Surface opacity        | Opaque       | Transparent   |
+| Mixing                 | No mixing    | High mixing   |
+- See Table ref:landwaterdiff for a compare contrast table
+- Oceans will moderate temperatures
+  - Ex. Scotland has a moderate annual temperature range despite being in a
+    relatively high latitude
+  - Conditions *much milder near large water bodies*
+***** Ocean Currents
+****** Warm ocean currents along east coasts
+- from /equatorial areas/
+- Bring /mild/ conditions and greater evaporation
+  - ex: Gulf Stream
+****** Cold ocean currents along west coasts
+- Currents from /polar areas/
+- Bring /cool/ conditions
+  - Ex: California current
+***** Summary
+- Maritime influence: mild conditions are advected to surroundings
+- *Summers* near oceans are /not as warm/ as in the interiors of continents
+- *Winters* near oceans are /not as severe/ as in inland locations
+- Onset of seasons is delayed near oceans
+*** What piece of information is the most important?
+*** Air Temperature and the Human Body
+- *Wind chill*
+  - Correlates _temperature_ (cold) with _wind speed_
+- *Heat index*
+  - Correlates _temperature_ (heat) with _humidity_
+** Earth's Temperature Patterns
