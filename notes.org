@@ -693,3 +693,83 @@ Seasons!
 - *Heat index*
   - Correlates _temperature_ (heat) with _humidity_
 ** Earth's Temperature Patterns
+* Ch6: Atmospheric and Oceanic Circulations
+** Wind Essentials
+*** Naming wind
+- Direction from which the wind blows
+- Northerly winds tend to be cold
+- Southerly winds tend to be warm
+*** What causes wind to blow?
+- Sea level pressure
+- Horizontal pressure variations
+- Once wind blows, other forces can impact the wind
+- *Normal Pressure*: 1013.25 mb
+- *Strong High pressure*: up to 30mb above the normal
+- *Strong Low pressure*: up to 30mb below the normal
+- *Deep Low pressure*: more than 30mb below the normal
+- Hurricanes have very low pressure centers
+*** What causes horizontal pressure variations
+**** Temperature
+- /T/ inversely related to /P/ and density
+  - High /T/ (hot): Low /P/
+  - Low /T/ (hot): High /P/
+- *Thermal Low (or High)*
+**** Air Motion
+- Rising air: Low /P/ on surface
+- Sinking air: Low /P/ on surface
+- *Dynamic Low (or High)*
+** Driving Forces within the Atmosphere
+*** Pressure Gradient Force
+- Causes wind to blow *from high to low pressure*
+- Direction of force is *perfectly perpendicular to isobars*
+- Wider spacing: *weaker pressure gradient*
+- Closer spacing: *stronger pressure gradient*
+- Stronger pressure gradient means stronger wind speed
+**** High pressure
+- Air diverges and sinks
+**** Low pressure
+- Air converges and rises
+*** Coriolis Force
+- *Apparent* deflection of moving objects
+- Due to the *Earth's rotation* (West to East spin)
+- Deflection (with respect to the motion) is
+  - to the *right in NH*
+  - to the *left in SH*
+- Acts over large distances and long time frames
+  - Forget about which way your toilet flushes
+  - Think more about airplane and missile trajectories
+- In the Northern Hemisphere
+  - *High pressure*: wind blows clockwise
+  - *Low pressure*: wind blows counter-clockwise
+  - Opposite in Southern Hemisphere
+- *Geostrophic* wind in *Upper Troposphere*
+  - No other forces impacting the wind
+  - Winds tend to flow *parallel* to the isobars
+**** Function of
+- Latitude (0 at the equator, maximum at the poles)
+- Wind speed
+*** Friction Force
+- Occurs below ~500m (1600 ft)
+- Decreases wind speed
+  - Disrupts Coriolis and PGF balance
+- Causes wind to cross at an angle to isobars
+  - Curve and spiral inward (for low pressure systems)
+- Friction slows wind, decreasing Coriolis effect, making wind cross isobars
+  - Wind flow /converges/ into Low (spirals inward)
+  - Window flow /diverges/ out of High (spirals outward)
+*** Gravity
+- Holds atmosphere to the surface
+- Constant everywhere (not too interesting to talk about)
+** Atmospheric Patterns of Motion
+*** Two Main Winds
+- *Geostrophic Wind* when there is no _friction_ (i.e. upper troposphere)
+  - parallel to isobars
+- *Surface Wind* when there is _friction_ (i.e. lower troposphere)
+  - crosses isobars at an angle
+** Oceanic Currents
+- If earth *did not rotate* and *had a uniform surface*
+  - Air would circulate perfectly between the poles and the equator
+  - Permanent low pressure system at the equator
+  - Permanent high pressure system at the poles
+- Rotating of earth and uneven distribution of land vs water makes this much
+  more complicated
