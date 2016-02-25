@@ -766,6 +766,85 @@ Seasons!
   - parallel to isobars
 - *Surface Wind* when there is _friction_ (i.e. lower troposphere)
   - crosses isobars at an angle
+*** Global Pressure Zones
+**** Equatorial Low
+- 10 deg N to 10 deg S
+- A lot of energy
+  - Constant high angle of incidence
+  - Consistent day length (always 12 hours)
+  - Surface air heats up
+- Characterized by low pressure
+  - Air converges and rises
+***** ITCZ (Inter-tropical Convergence Zone)
+- Maximum north = 25 deg N
+- Maximum south = 20 deg S
+- Shifts more over land areas where the heating is more intense
+- Displaced towards the Southern Hemisphere for the SH Summer
+- Displaced towards the Northern Hemisphere for the NH Summer
+**** Hadley Cells
+- Driven by the *tradewinds*
+- Air converges and rises
+- Travels poleward
+- Cools and therefore sinks
+**** Subtropical high
+- Begins at 20 to 30 deg N/S
+- Migrates 5-10 deg latitude with seasons
+- High pressure due the air which was rising at the equator began moving towards
+  the poles, cooled off and sank over the subtropical high creating a belt of
+  high pressure
+- Dry (low humidity)
+- Weather: clear, warm, calm
+- Once again, more defined over the ocean
+  - Bigger high pressure cells during the summer
+**** Trade Winds
+- 25 deg N to 25 deg S
+- Seasonal variability similar to ITCZ
+- Mostly over ocean areas
+**** Westerlies
+- Between Subtropical high and sub-polar low
+- Diverging winds north of Hadley Cell
+**** Global desserts
+- Between Sub-polar low and subtropical high
+- Sinking air
+- Lack of precipitation
+**** Sub-polar Low
+- 60 deg N/S
+- Air which sank in the subtropical high moves over this region and rises
+- Cool, most air
+- Clouds
+- Seasonal variability
+  - Low pressure cells are strongest in the winter time
+**** Easterlies
+- Between Sub-polar low and Polar high
+- Cold and dry
+**** Polar High
+- 90 deg N/S
+- Persistent in Southern Hemisphere
+  - Land mass of the continent of Antarctica
+- Seasonal in Northern Hemisphere
+  - Ocean which melts in the summer
+- Air which rose in the sub-polar lows, sinks creating an area of high pressure
+- Cold/dry air
+*** Global Surface Wind Zones
+**** NE Trade-winds
+- In the northern hemisphere
+- Wind blowing from the Subtropical high to Equatorial low
+**** SE Trade-winds
+- In the southern hemisphere
+- Wind blowing from the Subtropical high to Equatorial low
+**** Westerlies
+- In the northern hemisphere and the southern hemisphere
+  - Wind blowing from the Subtropical high to Sub-polar low
+**** Polar Easterlies
+- In the northern hemisphere and southern hemisphere
+- Wind blowing from the Polar high to the Sub-polar low
+*** Jet Streams
+**** Polar front jet stream
+- migrates between 30 and 70 deg
+- much lower than the subtropical jet stream
+**** Subtropical jet stream
+- migrates between 20 and 50 deg
+- much higher than the polar front jet stream
 ** Oceanic Currents
 - If earth *did not rotate* and *had a uniform surface*
   - Air would circulate perfectly between the poles and the equator
@@ -773,3 +852,4 @@ Seasons!
   - Permanent high pressure system at the poles
 - Rotating of earth and uneven distribution of land vs water makes this much
   more complicated
+- Tend to follow the gyre of the pressure systems of the air above
