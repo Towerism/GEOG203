@@ -853,3 +853,91 @@ Seasons!
 - Rotating of earth and uneven distribution of land vs water makes this much
   more complicated
 - Tend to follow the gyre of the pressure systems of the air above
+* Ch7: Water and Atmospheric Moisture
+** Water on Earth
+*** Oceans
+- Half of oceans is pacific ocean
+- Quarter is Atlantic
+- Rest is Indian and arctic (very small comparatively)
+*** Freshwater
+- Very small amount of water in the atmosphere
+  - 0.001%
+- Majority of fresh water on earth is frozen
+- Most of the water we interact with on a day to day basis is fresh water
+  - 22% of all the water on earth is subsurface
+** Unique Properties of Water
+- oxygen side is positive, hydrogen is negative
+  - water molecules stick to each other - "Hydrogen bonds"
+**** Phases
+***** Solid
+- Frozen, Ice
+- Less dense than liquid form
+  - Ice floats on liquid water
+- Forms crystallized hexagonal crystal structure
+***** Liquid
+- Phase change from solid requires breaking the crystalline structure of ice
+  - Called melting
+***** Gas
+- Phase change from gas to solid is called *deposition*
+- reverse is called *sublimation*
+**** Phase Changes
+***** Melting
+- Roughly 80 calories absorbed when melting one gram of water
+  - no temperature change occurred
+  - *latent heat of melting*
+***** 0 deg C to 100 deg C
+- For one gram of water takes about 100 calories (sensible heating)
+***** Boiling
+- Roughly 540 calories absorbed when boiling one gram of water
+  - no temperature change occurred
+  - *latent heat of vaporization*
+***** Total absorbed energy for 1 gram of ice changing to 1 gram of vapor
+- $80 + 100 + 540 = 720$ calories
+- reverse is $-80 - 100 - 720 = -720$ calories
+**** Real world phase changes
+- Evaporation in real life tends to occur at temperatures less than 100 deg C
+- Therefore latent heat of evaporation is even higher than 540 calories
+  - typically 585 calories absorbed for water evaporated at room temperature (20
+    deg C)
+** Humidity
+- *Humidity* water vapor content of air
+- *Absolute humidity* /mass/ of water vapor per /volume/ of air
+  - Not an ideal measure for making comparisons
+  - Dependency on volume is problematic
+- *Specific humidity* /mass/ of water vapor per *total* /mass/ of air
+  - _Not_ affected by changes in /T/ or /P/
+- *Relative humidity* /actual water vapor/ as a *percentage* of the /water vapor
+  capacity at a particular temperature/.
+*** Patterns
+- For example in California, relative humidity is
+  - Typically highest right before sunrise
+  - Typically lowest at temperature high for that day
+  - More saturated in January than in July
+- Least humid (relative) at 30 deg N/S
+- Most humid (relative at the South pole
+- In general *relative humidity* is
+  - Lower where it is warm
+  - Higher where it is cold
+- In general *specific humidity* is
+  - Highest around the equator
+  - Lowest around the poles
+*** Saturation
+- Relative humidity is 100%
+- Rates of evaporation and condensation are equal: *equilibrium*
+- Air contains the maximum amount of water vapor possible
+- *Dewpoint temperature* /T/ at which air is saturated
+** Atmospheric Stability
+- *Stability* tendency of an air "parcel" to remain in place and to *not rise*
+  in the atmosphere
+  - An *air parcel* is a body of air with homogeneous temperature and humidity
+    characteristics
+  - Air parcels tend to
+    - Expand as they rise
+    - Compress as they fall
+  - *Buoyancy force* (tendency of air to escape into space) is for the most part
+    balanced by *gravitational force*
+*** A Parcel is stable if
+- It resists upward movement, and/or sinks back to its starting point
+*** A Parcel is unstable if
+- It rises and continues to rise freely, on its own
+** Clouds and Fog
