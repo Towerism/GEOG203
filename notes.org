@@ -925,7 +925,7 @@ Seasons!
 - Relative humidity is 100%
 - Rates of evaporation and condensation are equal: *equilibrium*
 - Air contains the maximum amount of water vapor possible
-- *Dewpoint temperature* /T/ at which air is saturated
+- *Dew-point temperature* /T/ at which air is saturated
 ** Atmospheric Stability
 - *Stability* tendency of an air "parcel" to remain in place and to *not rise*
   in the atmosphere
@@ -936,8 +936,69 @@ Seasons!
     - Compress as they fall
   - *Buoyancy force* (tendency of air to escape into space) is for the most part
     balanced by *gravitational force*
+  - *Dependent on temperature*
 *** A Parcel is stable if
 - It resists upward movement, and/or sinks back to its starting point
 *** A Parcel is unstable if
 - It rises and continues to rise freely, on its own
+*** Lapse Rates
+**** Adiabatic
+- warming or cooling rate of an air parcel
+  - rise and cool
+  - sink and warm
+- /assuming/: temperature change occurs without a loss or gain of energy from the
+  environment
+- Two rates at which parcels can warm/cool
+  - *Dry* Adiabatic Lapse Rate (DAR): 10 deg C / 1000 m
+    - unsaturated (RH < 100%)
+  - *Moist* Adiabatic Lapse Rate (MAR): 6 deg C / 1000 m
+    - saturated (RH = 100%)
+    - due to latent heat from condensation and evaporation
+- *Process*
+  - Adiabatic cooling
+    - Parcel cools internally as it expands under lower air pressure
+  - Adiabatic heating
+    - Parcel heats internally as it is compressed by higher air pressure
+*** Guidelines
+- temperature inside of parcel
+  - always use the DAR or MAR lapse rates
+- temperature of surrounding environment
+  - always varies... so use provided ELR (environmental lapse rate)
+- If the parcel is *cooler* than environment
+  - *Stable*
+  - Parcel is denser
+  - Parcel does not rise
+- If the parcel is *warmer* than environment
+  - *Unstable*
+  - Parcel is less dense
+  - Parcel rises
+- *In general*
+  - if ELR is less than MAR, the atmosphere will be stable
+  - if ELR is greater than DAR, the atmosphere will be unstable
+  - Conditional instability when ELR is between MAR and DAR
+    - Implies it is only unstable when the parcel is saturated
+    - Condition is *humidity*
+- Parcel can switch from DAR to MAR once it cools off to the dew-point temperature
 ** Clouds and Fog
+*** Clouds
+- Mass of tiny moisture droplets (about 20 micrometers)
+- *Raindrop* composed of ~1+ million moisture droplets
+- *Condensation nucleus* any particle in the atmosphere that can serve as a
+  surface for the condensation of water
+**** Classification
+1) Form
+   - Flat = *stratus*
+   - Puffy = *cumulus*
+   - Whispy = *cirrus*
+2) Altitude
+   - Low < 2000 m (different prefixes)
+   - Middle 2000-6000 m ("alto" prefix) 
+   - High 6000-13000 m ("cirr" prefix)
+Vertically developed clouds have the prefix "cumulo"
+*** Raindrop and Snowflake Formation
+- Collision-coalescence Process
+  - Smaller droplets collide and join with other droplets, especially ones which
+    are larger
+- Bergeron Ice-Crystal Process
+  - Ice crystals grow on bigger crystals and can also grow using surrounding
+    droplets
