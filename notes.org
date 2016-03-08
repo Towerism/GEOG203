@@ -1042,6 +1042,40 @@ Vertically developed clouds have the prefix "cumulo"
 - Surface cools off to dewpoint, usually over moist ground
 * Ch8: Weather
 ** Atmospheric Lifting Mechanisms
+*** Convergent Lifting
+- Low pressure zones
+- Inter-tropical Convergence Zone (ITCZ)
+*** Convectional Lifting
+- Dark surfaces
+- Urban heat island
+- Fires
+*** Orographic Lifting
+- Caused by rain on windward side
+- Leaves a rain shadow on leeward side
+*** Frontal Lifting
+- /Squall line/ a line of towering thunderstorms
+**** Cold fronts
+- Cold air forces warm air upwards
+- 400 km wide (250 mi)
+**** Warm fronts
+- Warm air moves up and over cold air
+- 1000 km wide (600 mi)
 ** Air Masses
+- Like gigantic air parcels
+- A *homogeneous body of air* that has taken on the /temperature/ and /moisture/
+  characteristics of its /source region/
+- *source region* large, flat, homogeneous
+  - geographically flat
+  - temperature's are relatively constant for long periods of time
+*** Classification
+- Humidity
+  - m = *maritime* = moist
+  - c = *continental* = dry
+- Temperature
+  - A = *Arctic* = cold/very cold
+  - P = *Polar* = cool/cold
+  - T = *Tropical* = warm/hot
+  - E = equatorial (more severe tropical)
+  - AA = Antarctic (same as arctic but in southern atmosphere)
 ** Mid-latitude Cyclonic Systems
 ** Violent Weather
