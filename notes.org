@@ -995,6 +995,27 @@ Seasons!
    - Middle 2000-6000 m ("alto" prefix) 
    - High 6000-13000 m ("cirr" prefix)
 Vertically developed clouds have the prefix "cumulo"
+**** Types
+***** High
+- Tend to be made up of ice crystals
+- *Cirrocumulus* - mackerel
+- *Cirrostratus* - continuous blanket later (visible sun halos)
+- *Cirrus* - whispy
+***** Middle
+- Water vapor
+- *Altocumulus* - Patches of cotton balls (not as whispy as cirro-type)
+- *Altostratus* - Entire sky covered by gray layer of clouds (sun barely visible)
+***** Low
+- *Stratocumulus* - Soft, Gray, globular masses in lines, groups, or waves,
+  heavy rolls, irregular overcast patterns
+- *Stratus* - Uniform, featureless, gray, like high fog
+- *Nimbostratus* - Gray, dark, low, with drizzling rain
+***** Vertically developed
+- *Cumulus* - Sharply outline, puffy, billowy, flat-based, swelling tops, fair
+  weather
+- *Cumulonimbus* - Dense, heavy, massive, dark thunderstorms, hard showers,
+  explosive top, great vertical development, towering, cirrus-topped plume blown
+  into anvil-shaped head
 *** Raindrop and Snowflake Formation
 - Collision-coalescence Process
   - Smaller droplets collide and join with other droplets, especially ones which
@@ -1002,3 +1023,25 @@ Vertically developed clouds have the prefix "cumulo"
 - Bergeron Ice-Crystal Process
   - Ice crystals grow on bigger crystals and can also grow using surrounding
     droplets
+*** Fog
+- Clouds that are in contact with the ground
+  - restrict visibility to less than 1 km
+  - if this condition is not met, it is instead considered *mist*
+**** Two main types
+***** Advection fog
+- Warm and moist air becomes cool from cold surface
+****** Evaporation fog
+- "Steam" fog
+- Cold air on top of warm and moist surface
+****** Upslope fog
+- Moist air lifted by upslope
+- E.g. air parcels which are forced up the windward side of a mountain
+****** Valley fog
+- Chilled saturated layer that settles in valleys
+***** Radiation fog
+- Surface cools off to dewpoint, usually over moist ground
+* Ch8: Weather
+** Atmospheric Lifting Mechanisms
+** Air Masses
+** Mid-latitude Cyclonic Systems
+** Violent Weather
