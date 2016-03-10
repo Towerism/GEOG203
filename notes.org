@@ -36,27 +36,27 @@ GEOG 203-503
   things within
 *** Five spatial themes:
 **** Location
-- Abste and relative location on earth
-- Whe The specific planetary address
-- E.gtitude and longitude
+- Absolute and relative location on earth
+- Where? The specific planetary address
+- E.g latitude and longitude
 **** Region
-- Arehaving unfiorm characteristics
-- Howey form and change
-- Relon to other regions
-- E.greas that are favorable to hurricane formation
+- Areas having unfiorm characteristics
+- How they form and change
+- Relation to other regions
+- E.g. areas that are favorable to hurricane formation
 **** Movement
-- Comication, movement, circulation, migration, and diffusion across Earth's
-  sure
-- Glo interdependence links all regions and places
-- Notcessarily people, but can refer to weather, and natural disaster
-- E.ghe path/trajectory of a hurricane, or the rotation
+- Communication, movement, circulation, migration, and diffusion across Earth's
+  surface
+- Global interdependence links all regions and places
+- Not necessarily people, but can refer to weather, and natural disaster
+- E.g. the path/trajectory of a hurricane, or the rotation
 **** Place
-- Tanle, intangible living and nonliving characteristics that make each
-  plaunique
-- No  places on earth are exactly alike
-- E.gemories of previous hurricanes, emotions and trauma
+- Tangible, intangible living and nonliving characteristics that make each
+  place unique
+- No two places on earth are exactly alike
+- E.g. memories of previous hurricanes, emotions and trauma
 **** Human-Earth Relationships
-- Human-environment connections inlucde
+- Human-environment connections include
   - Resource exploitation
   - Hazard perception
   - Environmental pollution and modification
@@ -1075,7 +1075,8 @@ Vertically developed clouds have the prefix "cumulo"
   - A = *Arctic* = cold/very cold
   - P = *Polar* = cool/cold
   - T = *Tropical* = warm/hot
-  - E = equatorial (more severe tropical)
-  - AA = Antarctic (same as arctic but in southern atmosphere)
+  - /less common/
+    - E = equatorial (more severe tropical)
+    - AA = Antarctic (same as arctic but in southern atmosphere)
 ** Mid-latitude Cyclonic Systems
 ** Violent Weather
