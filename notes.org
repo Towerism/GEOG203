@@ -1078,5 +1078,54 @@ Vertically developed clouds have the prefix "cumulo"
   - /less common/
     - E = equatorial (more severe tropical)
     - AA = Antarctic (same as arctic but in southern atmosphere)
+*** Major Air Masses Affecting USA
+- *cA* and *cP*
+  - dry, cool
+  - stable
+  - high pressure
+  - Canada/Alaska
+- *mP*
+  - moist, cool
+  - unstable
+  - Pacific (Aleutian Low), Atlantic (Icelandic Low)
+- *mT*
+  - humid, warm
+  - Gulf/Atlantic
+    - Unstable (winter) to very unstable (summer)
+  - Pacific
+    - Stable to conditionally unstable
+- *cT*
+  - dry, hot
+  - only in summer in USA
 ** Mid-latitude Cyclonic Systems
+- *Cyclone* area of low pressure with converging and rising air
+- AKA /wave cyclone/ because they travel westerly across U.S. in /waves/
+*** 4-Stage Development
+In the beginning, there was a stationary front. Once the front begins to move
+north or south, we can start seeing cyclonic development.
+1) Cyclogenesis
+2) Open stage
+3) Occluded stage
+4) Dissolving stage
+*** United States Storm Tracks
+- Storm systems tend to move from the west to the east
 ** Violent Weather
+*** Thunderstorms
+- Three places they develop
+  - In warm, moist air masses
+  - Along cold fronts
+  - Orographic lifting (upslope winds)
+**** Formation
+***** Developing stage
+- /cumulus/ stage 
+- uplift and adiabatic cooling
+***** Mature stage
+- precipitation starts
+- creates strong downdrafts
+- lightning
+- thunder
+***** Dissipating stage
+- Downdrafts dominate
+- weak downdrafts
+*** Tornadoes
+*** Tropical Cyclones
