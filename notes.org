@@ -1128,4 +1128,107 @@ north or south, we can start seeing cyclonic development.
 - Downdrafts dominate
 - weak downdrafts
 *** Tornadoes
+- North America is particularly prone to tornadoes
+  - cP air mass meets with the mT air mass
+  - Upward trend of tornado occurrences
+  - Tornadoes tend to occur very frequently in the spring time
+- Why?
+  - Because the Rockies to the west, and
+  - the Appalachians to the east
+  - Essentially funnels two contrasting air masses allowing them to meet up
+**** General Characteristics
+- Form in severe thunderstorms
+- *Size* few meters to 100s of meters in diameter
+- *Time* last ~seconds to 10s of minutes
+- *Winds* up to 300 mph (485 kph)
+- *Average ground speed* 45-55 mph
+- *Average path length* 7 km
+**** Intensity Scale
+- *Enhanced Fujita Scale*
+- Scale from 1-5, based on the /type of damage/
+- Table ref:tab-tornado-percentage shows varying strengths of tornados on the
+  enhanced fujita scale and their percentage of occurence
+#+CAPTION: Percentage occurrence of tornadoes of varying strength, along with the associated enhanced fujita scale value.
+#+TBLNAME: tab-tornado-percentage
+| Strength    | Scale | Percentage |
+|-------------+-------+------------|
+| Weak        |   1-2 |        69% |
+| Strong      |   3-4 |        29% |
+| Devastating |     5 |         2% |
+**** Formation
+1. Wind Shear (sets air spinning)
+2. Updraft (spinning air rises)
+3. Mesocyclone (updrafted air begins to rotate)
 *** Tropical Cyclones
+- Form only in the /tropics/
+- Depending on where they form they are called either
+  - hurricanes, or
+  - typhoons
+- Different than midlatitudes
+  - No fronts
+  - No differing air masses
+**** Easterly Waves
+- Formation of tropical cyclones
+- Occur between 5 degrees and 30 degrees latitude
+- Many over North Africa
+- Interaction of convergence and divergence
+- *Convergence*
+  - rising air
+  - thunderstorms
+- *Divergence*
+  - sinking air
+  - dry (moisture condensed during convergence, before sinking)
+**** Classification
+1. Tropical disturbance
+2. Tropical depression
+3. Tropical storm (Assigned a name)
+4. Hurricane
+**** Hurricanes
+- *Only 10% of easterly waves become hurricanes*
+- Called different things depending on where they occur
+- Table ref:tab-hurricane-naming shows the different names given to hurricanes
+- Season: June 1 to November 30
+#+CAPTION: Shows the name given to hurricanes based on where they occur
+#+TBLNAME: tab-hurricane-naming
+| Name      | Location              |
+|-----------+-----------------------|
+| Hurricane | Atlantic              |
+| Typhoons  | Western Pacific Ocean |
+| Cyclones  | Indian Ocean          |
+***** Typical observations
+- 100-600 miles in diameter
+  - "Super Typhoons" can get up to 1000 mi in diameter
+- Last about 1 week
+- Moves at 10-25 mph
+- Strong low pressure: 870 to 990 mb
+- Form in _tropics, over ocean water of at least 26.5 degrees Celsius_
+  - The temperature is necessary for enough evaporation to occur
+***** Characteristics
+- Inward flow of rising air
+- Inward spiral of rain bands
+- Well-defined eye wall
+  - 10-25 mile diameter
+  - most destructive part
+- Weak /descending/ air in the eye
+  - Driest, least destructive part
+  - can see the ocean on satellite images
+***** Impact
+- *Widespread Flooding* even weak storms can produce heavy rains (> 10 inches)
+- *High Winds* winds can exceed 100 mph
+- *Tornadoes* weak ones can form
+- *Storm surge* coastal areas affected by water pushed ashore
+  - Two types. Either
+    - Wind-driven, about 25 feet, or
+    - Pressure-driven, about 3 feet
+***** Global Warming
+- Global sea-surface temperatures (SST) increased 0.3 Celsius over the last 30
+  years
+- /Global/ hurricane numbers and intensity have not increased
+  - Although regional changes have been observed
+  - For example, Atlantic hurricanes have changed in number and/or intensity
+- Future tropical cyclones may become more intense due to increases in tropical
+  SSTs
+**** Saffir-Simpson Scale
+- Tropical Disturbance (<39 mph)
+- Tropical Storm (39-73 mph)
+- Categories 1 to 5
