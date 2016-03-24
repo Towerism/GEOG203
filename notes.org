@@ -1232,3 +1232,83 @@ north or south, we can start seeing cyclonic development.
 - Tropical Disturbance (<39 mph)
 - Tropical Storm (39-73 mph)
 - Categories 1 to 5
+* Ch9: Water Resources
+** The Hydrologic Cycle
+- Water is constantly circulating through the
+  - atmosphere,
+  - hydrosphere,
+  - lithosphere, and
+  - biosphere
+- More than 97% of water is in the ocean
+  - Ocean dominates evaporation
+- More than 70% of the world is covered by ocean
+  - ocean also dominates precipitation
+- *Over land*
+  - precipitation leads to evaporation and transpiration
+- *Over water*
+  - evaporation leads to precipitation
+- *Advection*
+  - each year land gains 8% of water while oceans lose 8% of water
+  - water returns to the ocean in the form of runoff
+| Source                | input | output |
+|-----------------------+-------+--------|
+| evaporation (ocean)   |   86% |        |
+| ET (land)             |   14% |        |
+| Precipitation (ocean) |       |    78% |
+| Precipitation (Land)  |       |    22% |
+| Total                 |  100% |   100% |
+*** Actual Evapotranspiration (ACTET)
+- *Evapo-ration*
+  - Ocean water
+  - Soil
+  - Vegetation surfaces
+- *Transpiration*
+  - Plants release water which in turn evaporates
+  - Cooling mechanism for plans
+*** Potential Evapotranspiration (POTET)
+- *POTET* amount of water that would evaporate/transpire under optimum moisture
+  conditions when there is adequate precipitation and soil moisture supply
+  - in other words, the maximum ET that /could/ theoretically occur
+- Determined by
+  - *Latitude* (solar angle, length of day)
+  - *Temperature*
+*** Water Budget
+- Components of the hydrologic cycle vary greatly from one location to another
+  - precipitation vs. POTET (supply vs demand)
+**** At the Surface
+- *Input*:
+  - Precipitation
+- *Outputs*:
+  - Evaporation
+  - Transpiration
+- *Phenomena*:
+  - Runoff
+  - Ground water infiltration and percolation
+    - Soil Moisture (storage)
+      - Hygroscopic (unavailable) / Wilting Point
+      - Capillary (runoff?) - most available water
+      - Gravitational (saturated) / Field Capacity
+** Soil-Water-Budget Concept
+- More PRECIP than POTET: *surplus* of moisture
+  - *recharge* if there was previously
+    a withdrawl
+- Otherwise there is what's called *soil-moisture-utilization*
+  - When soil-moisture is depleted, then it is called *soil-moisture-withdrawl*
+- Then there is a *deficit*
+** Drought
+- Less precipitation than /expected/ than /needed/
+  - Compared to climate normals (expectations)
+  - Demand exceeds supply (needs)
+- Naturally recurring feature of the global climate system
+*** Types
+- From least to most severe
+- *Meteorological* Less precipitation than we expected
+- *Agricultural* Severe enough that it impacts agriculture
+- *Hydrological* Severe enough that reservoir and ground-water levels are starved
+- *Socioeconomic* Severe enough to cause negative socioeconomic consequences
+*** Groundwater
+- Largest potential freshwater source
+  - Accounts for more than 22% of freshwater
+  - (cryosphere = about 77%, but not really /available/)
+- Linked to surface supplies: recharge
+  - Accumulates over millions of years
