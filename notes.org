@@ -1312,3 +1312,86 @@ north or south, we can start seeing cyclonic development.
   - (cryosphere = about 77%, but not really /available/)
 - Linked to surface supplies: recharge
   - Accumulates over millions of years
+* Ch10: Global Climate Systems
+** Weather vs. Climate
+*** Weather
+- Short-term conditions
+  - Temperature
+  - Humidity
+  - Cloudiness
+  - Precipitation
+  - Pressure
+  - Winds
+*** Climate
+- Average weather conditions over a long period  of time
+- Based on temperature, precipitation, etc.
+- Helps to determine global distribution of ecosystems (biomes)
+** Controls on Climate
+*** Components
+**** Insolation/Latitude
+**** Temperature
+***** Mechanisms
+- Latitude
+- Altitude
+- Cloud Cover
+- Land/Water
+**** Pressure
+**** Air masses
+**** Precipitation
+- Convergent Lifting
+- Convectional Lifting
+- Orographic Lifting
+- Frontal Lifting
+***** Classification
+****** Equatorial region: wet
+- Convergence of the trade winds
+- Lots of convection (heating)
+- Ample moisture available
+****** Subtropics: dry
+- Sinking air
+- Hadley cells produce a zone of high pressure
+****** Mountains
+- Wet climate on the windward side
+- Dry climate on the leeward side
+****** Continental Interiors: dry
+- far away from moisture sources
+***** Patterns
+1) Uniform ((all months about equal amounts)
+2) Summer peak
+3) Winter peak
+4) Double peak
+** Earth's Climate System and Its Classification
+*** Classications
+**** Genetic Classifications
+- Based on *forcing factors*
+  - Net radiation
+  - Thermal regime
+  - Air masses
+**** Empirical Classifications
+- Based on *actual data*
+  - Temperature
+  - Precipitation
+*** Climate Regions of the World
+**** Tropical
+***** Tropical rain forest
+- Constantly moist, year round
+  - Afternoon thunderstorms
+- Huge water surpluses
+  - For example: Amazon River
+- Lush evergreen broad-leaf trees
+***** Tropical monsoon
+- Similar to tropical rain forest, but *has a dry season*
+  - at least 1 month is dry
+  - when ITCZ is not overhead
+- Along /coastal areas/
+- *Monsoon* seasonal reversal of winds
+  - *In wet season* winds blow from the ocean
+  - *In dry season winds* blow from the land
+***** Tropical savanna
+- North/south of tropical rain forests
+- *Distinct wet and dry season* of /approximately equal length/
+- Greater annual temperature variability
+**** Mesothermal
+**** Microthermal
+**** Polar
+**** Arid and Semiarid
