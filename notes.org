@@ -1361,7 +1361,7 @@ north or south, we can start seeing cyclonic development.
 3) Winter peak
 4) Double peak
 ** Earth's Climate System and Its Classification
-*** Classications
+*** Classifications
 **** Genetic Classifications
 - Based on *forcing factors*
   - Net radiation
@@ -1392,6 +1392,112 @@ north or south, we can start seeing cyclonic development.
 - *Distinct wet and dry season* of /approximately equal length/
 - Greater annual temperature variability
 **** Mesothermal
+- Midlatitude mild winter climates
+  - Warm and temperate
+  - True seasonality
+- Regions dominated by
+  - Changing air masses
+    - mT
+    - cP
+  - Midlatitude wave cyclones
+  - Decreasing temperatures (poleward)
+***** Humid Subtropical 
+****** Hot-Summer
+- Moist year-round
+  - *Summer* convection
+  - *Winter* frontal lifting
+****** Winter-Dry
+- Monsoonal conditions
+- 10x more rain in summer than in winter
+***** Marine West Coast
+- Pacific Northwest (U.S. and Canada)
+- Northern Europe
+- mP air masses - cool, moist, unstable
+- Year-round moisture
+- Surprisingly mild winters (above freezing), cool summers
+***** Mediterranean (Dry-Summer)
+- *Dry summers* expansion of subtropical high
+  - cT conditions from Sahara desert expand over Europe
+  - also caused by *cold ocean currents*
+- Winters are (relatively) wet
+  - California, Chile
 **** Microthermal
+- In middle- and high-latitudes
+- *No microthermal climates in the Southern Hemisphere*
+***** In general
+- Cold, long winters
+- Hot-to-cool summers, going south-to-north
+- Year-round moisture
+  - But small monsoon region means dry winters in Asia
+***** Humid Continental 
+****** Hot Summer
+- Hot summers and moderate winters
+- *U.S.* Midwest to the northeast
+  - *Moist year-round*
+    - *Summer* convection
+    - *Winter* midlatitude wave cyclones
+- *Asia* northeast China
+  - *Monsoonal moisture* regime
+    - *Dry winters (downstream from Siberia)*
+****** Mild Summer
+- Similar to the Hot Summer
+- Except the summers do not get quite as hot
+***** Subarctic
+- *North America* most of Alaska and Canada (/boreal forest/)
+- *Eurasia* northern Europe, most of Russia (/taiga/)
+****** Cool Summer
+- Large temperature seasonality
+- Year-round (low) moisture
+****** Very Cold Winter
+- Only in eastern Russia
+- *Extremely cold winters* (-90 degrees Fahrenheit), mild summers
+- Extreme seasonality, up to 113 degrees Fahrenheit
 **** Polar
-**** Arid and Semiarid
+***** General Characteristics
+- No true summer
+- Even during 24 hours of daylight, temperature is below 50 degrees Fahrenheit
+- Too cold for trees
+- Extremely low moisture - "frozen deserts"
+***** Tundra
+- Summer barely above freezing
+- 8 to 10 months of snow-covered ground
+- Low-growing vegetation when snow melts
+  - lichens, mosses, sedges
+- Extensive *permafrost*
+***** Ice Cap and Ice Sheet
+- Northern Hemisphere
+  - *Interior Greenland and Arctic Ocean*
+- Southern Hemisphere
+  - Virtually all of *Antarctica*
+    - Ice is *4000 m thick* in East Antarctic
+    - Very high elevations
+    - *Coldest place on earth*
+****** Conditions
+- Average temperature below freezing each month
+  - Summer temperatures are 0 degrees Fahrenheit
+- *Annual precipitation* 2 to 5 in
+  - Lowest specific humidity on earth
+- *Growth of ice sheets* mainly through deposition
+**** Dry, Arid, and Semiarid
+***** In general
+- *Most extensive climate region on land*
+- *POTET > PRECIP* moisture demand exceeds supply
+  - Always a deficit
+- Caused by
+  - Subtropical highs
+  - Stabilizing ocean currents
+  - Rain-shadow effects
+  - Great distance to water
+***** Desert
+****** Hot Low-Latitude
+- "True" deserts, in tropics and subtropics
+- Annual average temp is *above 18 degrees Celsius*
+- Annual average precip is almost none, up to 14 inches
+****** Cold Mid-Latitude
+- Annual average temp *less than 18 degrees Celsius*
+***** Steppe
+****** Hot Low-Latitude
+- Found in tropics and subtropics
+  - Surrounding hot deserts
+****** Cold Mid-Latitude
+- Found poleward of 30 degrees latitude
