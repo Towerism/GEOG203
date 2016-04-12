@@ -1501,3 +1501,52 @@ north or south, we can start seeing cyclonic development.
   - Surrounding hot deserts
 ****** Cold Mid-Latitude
 - Found poleward of 30 degrees latitude
+* Ch: 11 Climate Change
+** How has climate been changing?
+- Cycles of warming and cooling
+- Earth is currently in an ice age
+  - Determined by the presence of ice sheets on earth
+  - I.e. at the poles
+- Average temperatures are currently rising
+- *warmest year (since 1880)* 2015
+- *second warmest* 2014
+- 15 of the 16 warmest years on record have all been since 2001 (except 1998)
+- Average global temps have increased by about 1 degree Celsius since 1880
+*** Trends
+- *Diurnal temperature* range has decreased
+  - T_{min} increasing twice as fast as T_{max}
+  - I.e. night time temps increase faster than day time temps
+- *Precipitation* + 5-10% for 30 to 85 degrees north since 1900
+- *Sea level* has increased 18.5 cm since 1900
+- *Snow cover* extent has generally decreased
+- *Growing season* has gotten longer
+  - Earlier spring melt, later fall frost
+*** Sea level rise
+**** What ifs
+- All *permafrost* thaws: *3-10 cm*
+- All the (freshwater) *sea ice* would melt: *4 cm*
+- All of *Greenland* melted: *6.5 cm*
+- All of *Antarctica* melted: *~60 m*
+- The *entire cryosphere* melted: *67 m*
+- Substantial areas of coastal plains would be flooded worldwide
+** Why is climate changing?
+*** Natural mechanisms
+- Solar output
+  - Solar constant: 1372 W/m^2
+- Earth sun relationships
+  - *Eccentricity* Orbit
+  - *Precession* Axial parallelism
+  - *Obliquity* Fixed tilt
+- Movement of Continents
+  - E.g. pangaea
+- Atmosphere/ocean
+- Volcanic activity
+*** Human mechanisms
+- Land use/land cover change
+  - Deforestation
+- Changing atmospheric chemistry
+  - Greenhouse gases
+**** Carbon dioxide
+- Greenhouse gas warming is due mainly (~64%) to CO_2
+- Rate of increase unprecedented in the last 10,000 years
+** How will climate change in the future?
