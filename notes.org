@@ -1571,3 +1571,108 @@ north or south, we can start seeing cyclonic development.
 - Tropical cyclones may be more intense
 - Maximum warming in *high northern latitudes*
 - Warming is largest in *cold season*, due to sea ice forming later
+* Ch12: Ecosystem Essentials
+** Biosphere
+- Where the atmosphere, lithosphere, and hydrosphere function together
+- Form the environment in which life exists
+- Contains all plant and animal life
+- Extends from sea-floor to about 8 km above earth's surface
+*** Biogeography
+- Geographic relationships between organisms and their environments
+- Closely related to *ecology* or relationships of organisms and their
+  environment
+- Study of the *distribution of plants and animals*
+  - Where, when, and why you can find them
+  - The "why" largely comes down to *survival*
+**** Competition: Survival of the Fittest
+- All organisms are locked in a life and death struggle for resources
+- *Resources* are energy, growth, and reproduction
+- *99.9% of all species* that have existed on Earth are now *extinct*
+**** Resource flow
+***** Components
+****** Abiotic
+- The sun
+- Nutrients
+  - Gases
+  - Water
+  - Minerals
+****** Biotic
+- *Basis of the food chain*
+- *Can utilize the abiotic resources*
+- Producers
+  - Plants
+- Consumers
+  - Herbivores
+  - Carnivores
+- Decomposers
+  - Fungi
+  - Bacteria
+** Food Chain
+*** Producers
+- *Plants* Use *CO_2* and *light* to form biomass
+- *About 20 plant species provide 90% of world's food*
+- *3 plant species provide 50%*
+  - Wheat
+  - Maize
+  - Rice
+- Estimate the distribution of plant distribution satellite images and
+  renderings
+**** Photosynthesis and Respiration
+- *Photosynthesis* combines CO_2 with water and light and creates sugar as a
+  byproduct
+- *Respiration* plants use the sugars made during the day and give off oxygen
+  CO_2 and water
+- If there is *Net Photosynthesis* then there is a *Net Growth*
+  - High productivity in the tropics
+    - *High precipitation* tends to imply *high productivity*
+  - Seasonal in the mid latitudes
+  - Low in the high latitudes
+*** Consumers
+- *Primary* herbivores (feed on producers)
+- *Secondary* carnivores
+- *Tertiary* omnivores (humans)
+*** Decomposers
+- Break down organic matter
+- Release nutrients
+** Global Distribution
+- *Biome* a large terrestrial ecosystem characterize by specific plant and
+  animal communities
+  - Named based on the dominant vegetation
+  - Vegetation patterns tend to be driven by precipitation patterns
+- *Ecosystems* determined by *by both temperature and precipitation*
+  - As well as:
+    - Solar radiation, photoperiod
+    - Soil temperature, evaporation, wind, etc.
+    - And the *seasonal distribution* of these variables
+- Vegetation sorting along environmental gradients occurs across a range of scales
+  - Continental scale
+  - Landform scale
+  - Microscale
+*** Limiting Factors
+**** Biotic (living) controls
+- Disease, predators, parasites
+- Food availability
+- Ability to adapt, compete, migrate, reproduce, defend
+**** Abiotic (non-living) controls
+- Climatic controls
+  - Temperature precipitation wind sunlight photoperiod
+  - Determined by site-specific factors
+    - How much sunlight and water reaches the forest floor
+    - How well is the wind blocked by the canopy
+    - Relative humidity, temperature
+- Geomorphic/Edaphic controls
+  - Slope, aspect, soil type, etc.
+  - *Slope* steepness
+  - *Aspect* orientation
+  - Important controls of temperature and moisture
+  - Soil type
+    - Determines the fertility, texture, depth, water holding capacity,
+      nutrients, acidity, salinity, etc.
+  - Determined by
+    - Climate, parent material, and amount of time
+- Element, nutrient =, and chemical cycling
+  - Availability of C, N, etc.
+**** Microclimates
+** Succession
+*** Terrestrial
+*** Aquatic
