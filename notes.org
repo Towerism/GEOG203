@@ -1549,4 +1549,25 @@ north or south, we can start seeing cyclonic development.
 **** Carbon dioxide
 - Greenhouse gas warming is due mainly (~64%) to CO_2
 - Rate of increase unprecedented in the last 10,000 years
+**** Radiative forcing
+- the difference of insolation (sunlight) absorbed by the Earth and energy
+  radiated back to space
+- Influenced by greenhouse gases
+*** Events
+- *El nino* unusual warming
+- *La nina* unusual cooling
+*** Determining natural- or human-caused
+- Need to run computer simulations based on general climate and circulation
+  models
+- Compare the simulation with models isolating natural and anthropogenic
+  forcings respectively
 ** How will climate change in the future?
+- Use global climate models
+*** GCM Projections
+- projected temperature rise: 1.0 to 3.7 degrees Celsius by 2100
+- Precipitation will likely increase (decrease) in some regions 10% to 20%
+- Decrease in snow cover, and sea-ice thickness and extent
+- More frequent and intense heat waves, droughts, and heavy precipitation
+- Tropical cyclones may be more intense
+- Maximum warming in *high northern latitudes*
+- Warming is largest in *cold season*, due to sea ice forming later
