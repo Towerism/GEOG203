@@ -1571,7 +1571,7 @@ north or south, we can start seeing cyclonic development.
 - Tropical cyclones may be more intense
 - Maximum warming in *high northern latitudes*
 - Warming is largest in *cold season*, due to sea ice forming later
-* Ch12: Ecosystem Essentials
+* Ch19: Ecosystem Essentials
 ** Biosphere
 - Where the atmosphere, lithosphere, and hydrosphere function together
 - Form the environment in which life exists
