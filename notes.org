@@ -1696,3 +1696,101 @@ Ordered by increasing sediments and organics (nutrients)
 - *Oligotrophic* low
 - *Mesotrophic* medium
 - *Eutrophic* high
+* Ch12: The Dynamic Planet
+** Earth's Structure
+- Earth Congealed from a nebula, ~4.6 billion years ago
+- Gravity sorted by density
+- Arranged in concentric circles
+  - Heaviest materials
+  - Lightest materials
+- How do we know the composition?
+  - Seismic shock waves help estimate density
+- *Radius of Earth* 6370 km
+- Only been able to drill to 12 km (and it took 20 years)
+*** Core
+- 1/6 of volume, 1/3 of mass (Very dense)
+**** Inner
+- Most dense
+- *Solid* iron
+**** Outer
+- *Molten* iron
+- Magnetic field
+  - Protects from solar wind/cosmic radiation
+***** Earth's Magnetism
+- Caused by *fluid outer core*
+- *Polarity changes over time*
+  - Moving towards Russia at ~25 mi/yr
+  - Changed ~685 mi in last century
+- *Polarity weakens and reverses every ~500,000 years*
+  - Helps establish "relative" time
+*** Mantle
+- 80% earth's volume
+- Probably contain lots of water (in the crystalline structure)
+- Contains "hot spots"
+  - Hawaii and other volcanic chains
+*** Lithosphere
+**** Asthenosphere
+- Extends from the lower mantle to the upper mantle
+**** Lithosphere
+- Uppermost mantle and crust
+*** Crust
+- *Oceanic*
+- Composition, texture, *density* differences
+- "Floats" on denser layers below
+**** Continental
+- *granite*
+- Crystalline
+- Lower density than the oceanic crust
+- 20-60 km thick
+**** Oceanic
+- *Basalt*
+- Granular
+- Higher density than the continental crust
+- 5 km thick
+** The Geologic Cycle
+- *Crust is in a constant state of change*
+  - Being formed by *endogenic* (internal) processes
+  - Worn down by *Exogenic* (External) processes
+- *rocks and Minerals*
+  - *Mineral* inorganic, non-living, natural compound
+    - Has chemical formula and crystalline structure
+  - *Rocks* assemblage of minerals, mass of a single mineral, solid or organic
+    material
+    - Example: granite
+*** Rock Cycle
+**** Igneous
+- Solidifies from cooling magma or lava
+  - Product of the "crystallization" of magma and lava
+- *Magma* molten rock beneath the surface (intrusive)
+  - /Slower cooling/ which yields /larger crystals/
+- *Lava* is molten rock at the surface (extrusive)
+  - /Faster cooling/ which yields /smaller crystals/
+**** Sedimentary
+- Sediments worn from other rocks
+- *Sediments* Loose particles of former rocks ranging from  mineral grains to
+  giant boulders
+- Acted upon by cementation, compaction, and hardening of sediments, otherwise
+  known as *lithification*
+- E.g. sandstone, shale, limestone, coal
+**** Metamorphic
+- Changing the chemistry, mineralogy, or texture of other rocks
+- Igneous or sedimentary rocks are transformed due to *extreme pressure and/or
+  heat*
+  - Physically and chemically different
+  - Harder and more resistant to erosion
+- Change of form
+  - Granite to Gneiss
+  - Shale to Slate
+  - Limestone to Marble
+  - Sandstone to Quartzite
+| Rock    | Metamorphic |
+|---------+-------------|
+| Granite | Gneiss      |
+|         |             |
+|         |             |
+|         |             |
+
+** Plate Tectonics
+*** Sea-Floor Spreading
+*** Subduction
+*** Plate Boundaries
