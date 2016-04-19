@@ -1501,7 +1501,7 @@ north or south, we can start seeing cyclonic development.
   - Surrounding hot deserts
 ****** Cold Mid-Latitude
 - Found poleward of 30 degrees latitude
-* Ch: 11 Climate Change
+* Ch11: Climate Change
 ** How has climate been changing?
 - Cycles of warming and cooling
 - Earth is currently in an ice age
