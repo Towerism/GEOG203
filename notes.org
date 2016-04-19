@@ -1644,6 +1644,12 @@ north or south, we can start seeing cyclonic development.
     - Solar radiation, photoperiod
     - Soil temperature, evaporation, wind, etc.
     - And the *seasonal distribution* of these variables
+- *Ecosystem* a self-sustaining association of plants and animals and their
+  physical environment
+  - Ex: a forest, a beach, etc.
+- Ecosystems are *not static*
+  - Constantly changing in response to environmental conditions and disturbances
+  - *Dynamic equilibrium*
 - Vegetation sorting along environmental gradients occurs across a range of scales
   - Continental scale
   - Landform scale
@@ -1674,5 +1680,19 @@ north or south, we can start seeing cyclonic development.
   - Availability of C, N, etc.
 **** Microclimates
 ** Succession
+- *Older, more simple* communities are replaced by *newer, more complex* communities
 *** Terrestrial
+- Competition for _sunlight_
+**** Types
+- *Primary* beginning of a /new/ ecosystem
+  - Ex: plants and animals on bare rock, newly exposed surfaces created by
+    mass movement, volcanic activity
+- *Secondary* starts from /remains of previous community/ in disturbed area,
+  where soil remains intact;
 *** Aquatic
+- Competition for _nutrients_
+**** Stages
+Ordered by increasing sediments and organics (nutrients)
+- *Oligotrophic* low
+- *Mesotrophic* medium
+- *Eutrophic* high
