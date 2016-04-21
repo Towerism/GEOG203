@@ -1844,3 +1844,28 @@ Ordered by increasing sediments and organics (nutrients)
 *** Ocean Floor
 - *Subduction* creates *deep trenches*
 - *Spreading* creates *ridges*
+* Ch13: Tectonics, Earthquakes, and Volcanism
+** Orogensis (Mountain Building)
+- Collision between *oceanic* and *continental* plate
+  - Ex. Pacific coast of south America
+- Collision between *two oceanic* plates
+  - Ex. Chain of islands (volcanoes) in the western pacific
+- Collision between *two continental* plates
+  - Ex. Alps and Himalayas
+** Crustal Deformation Processes
+- When pressure is exerted on the crust it either bends (creating *folds*) or
+  breaks (creating *faults*)
+- The force on the rock creates a stress response, creating a surface
+  expression, which results in the resulting fault
+*** Folding
+- *Bending* of rock strata that are subjected to compressional forces
+- The rock strata look like "towels"
+*** Faulting
+- Occurs when rocks on either side of a fracture (*break*) are displaced relative to
+  the other side
+**** Normal
+**** Reverse
+**** Strike-Slip
+** Earthquakes
+** Volcanism
+* 
