@@ -1774,23 +1774,73 @@ Ordered by increasing sediments and organics (nutrients)
 - E.g. sandstone, shale, limestone, coal
 **** Metamorphic
 - Changing the chemistry, mineralogy, or texture of other rocks
-- Igneous or sedimentary rocks are transformed due to *extreme pressure and/or
+- Igneous or sedimentary rocks are transformed due to
+- *extreme pressure and/or 
   heat*
   - Physically and chemically different
   - Harder and more resistant to erosion
 - Change of form
-  - Granite to Gneiss
-  - Shale to Slate
-  - Limestone to Marble
-  - Sandstone to Quartzite
-| Rock    | Metamorphic |
-|---------+-------------|
-| Granite | Gneiss      |
-|         |             |
-|         |             |
-|         |             |
+  - From Igneous or Sedimentary to Metamorphic
+#+CAPTION: A set of rocks in their initial forms and the corresponding metamorphic form
+| Initial Form | Metamorphic |
+|--------------+-------------|
+| Granite      | Gneiss      |
+| Shale        | Slate       |
+| Limestone    | Marble      |
+| Sandstone    | Quartzite   |
 
 ** Plate Tectonics
+- Changes in the configuration of the earth's crust due to internal forces
+- Processes involved include:
+  - Upwelling of magma
+  - Sea-floor spreading and subduction
+  - Plate movement
+- How do we know?
 *** Sea-Floor Spreading
+- Upwelling of magma pushes upward
+- Causes sea-floor spreading
+- Drives plate movement
+**** Dating the sea floor
+- Symmetrical spreading pattern
+- As new crust is added, magnetic particles in the lava align themselves with
+  the earth's magnetic field
+- Provides a continuous record of the Earth's magnetic reversals
+- Oceanic crust is much younder than continental crust
+  - Does not exceed 208 m.y.
 *** Subduction
+- Due to density differences between oceanic and continental crust
+  - Remember the continental crust is less dense
+- Oceanic crust re-melts and is recycled as magma as it subducts beneath the
+  continental crust
 *** Plate Boundaries
+- Earth's crust is composed of *14 plates*
+- Complex pattern of plate movement
+**** Movement types
+***** Divergent
+- *Plates move apart, and new oceanic crust forms*
+- New crust being created
+  - *Constructional process*
+- Most are associated with *mid-ocean ridges*
+***** Convergent
+- *Continental and oceanic crusts collide*
+- Produces *subduction zones*, mountains, volcanoes
+- Zones of compression and crustal loss
+  - *Destructional process*
+***** Transform
+- *Plates slide past one another*
+- Rock of different types and ages may be found on opposite sides of the boundary
+  - On ocean floor, along mid-ocean ridges
+  - Perpendicular to the sea-floor spreading zone
+**** Hot spots
+- Upwelling material from the mantle
+- Occur beneath both continental and oceanic crust
+- Some are fixed, others moves
+- Plates move over *hot spots* in the mantle
+- Creating new volcanoes
+- Newer volcanoes are formed right over the hotspot
+- Older volcanoes were formed when that section was over the hotspot
+- As the extinct volcanoes erode over time
+  - They sink below sea level to become seamounts
+*** Ocean Floor
+- *Subduction* creates *deep trenches*
+- *Spreading* creates *ridges*
