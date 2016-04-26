@@ -1864,8 +1864,64 @@ Ordered by increasing sediments and organics (nutrients)
 - Occurs when rocks on either side of a fracture (*break*) are displaced relative to
   the other side
 **** Normal
+- caused by
+  - tension,
+  - stretching, and
+  - thinning
+- *Footwall* side is elevated /above/ the *hanging wall* side
 **** Reverse
+- caused by
+  - compression,
+  - shortening, and
+  - folding
+- *Footwall* side is elevated /below/ the *hanging wall* side
 **** Strike-Slip
+- caused by
+  - shear,
+  - shearing, and
+  - bending
+- /Lateral/ displacement
 ** Earthquakes
+- Caused by a buildup and release of stress
+- *Focus* sub-surface area along a fault plane where motion is initiated
+- *Epicenter* area at the surface directly above the focus
+- *Aftershock* (foreshock) shocks that occur after/before the main shock
+*** Assessment
+- *Moment Magnitude Scale* modified version of *Richter scale*
+*** Activity
+- 99% of earthquakes are associated with plate boundaries
+- More than 500,000 occur worldwide each year
+- In the U.S. they occur mostly along the west coast
 ** Volcanism
-* 
+*** Where they are from
+- Subduction zones
+  - Continental-ocean
+  - Ocean-ocean
+- Seafloor spreading and rifting
+- Hot spots (ex. Hawaii
+*** Types of activity
+**** Intrusive
+- Magma solidifies below surface
+- Intrusive igneous rocks
+**** Extrusive
+- Magma expelled to surface
+- Extrusive igneous rocks
+- /Forms volcanoes/
+*** Types of volcanoes
+**** Shield
+- Shield-like, not steep
+  - Ex. Hawaii
+- Lots of lava, but /little pyroclastics/
+- Low viscosity, thin lava
+- Lava flows /away/ from the vent
+- Formed by *effusive eruptions*
+- *Tamu Plateau* World's Largest Volcano
+  - 120,000 mi^2
+**** Composite
+- AKA "Stratovolcano"
+- Steep (cone like)
+- Lots of pyroclastics, but little java
+  - Most debris falls close to the vent
+- *High viscosity*
+- Formed by *explosive eruptions*
+  - Gases can't escape
